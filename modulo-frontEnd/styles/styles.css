@@ -96,12 +96,12 @@ nav a:hover{
     border-radius: 50%;
     object-fit: cover;
     border: spx solid var(--primary);
-    box-shadow: 0 0 40px rgb(red, green, blue);
+    box-shadow: 0 0 40px linear-gradient(FFDBFD, C9BEFF, 8494FF);
 }
 
 .badge{
     display: inline-block;
-    background: rgb(red, green, blue);
+    background: linear-gradient(FFDBFD, C9BEFF, 8494FF);
     color: var(--primary);
     padding: 8px 16px;
     border-radius: 30px;
